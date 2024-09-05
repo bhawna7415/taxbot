@@ -1,0 +1,45 @@
+
+Q: What is the California sales tax rate for 2023?
+A: The minimum state sales tax rate in California for 2023 is 7.25%.
+
+Q: Is California a member of the Streamlined Sales and Use Tax Agreement?
+A: No, California is not a member of the Streamlined Sales and Use Tax Agreement.
+
+Q: What authority is responsible for sales tax in California?
+A: The California Department of Tax and Fee Administration (CDTFA) is responsible for sales tax in California.
+
+Q: Are local sales tax rates applicable in California?
+A: Yes, some counties, cities, and towns in California may impose local district tax rates in addition to the state sales tax.
+
+Q: How is the total sales tax rate in California determined?
+A: The total sales tax rate in California is the sum of the state tax, district tax (county/city tax), and any special taxes applicable.
+
+Q: What is the highest sales tax rate in California and where is it applied?
+A: The highest sales tax rate in California is 10.75%, which applies in certain cities like Albany and Hayward in Alameda County.
+
+Q: How is sales tax calculated in California?
+A: To calculate sales tax in California, you add the state tax, district tax, and any special taxes. For example, the sales tax rate in San Francisco is 8.625%, which includes a state rate of 6%, a county rate of 0.25%, and a special local tax of 2.375%.
+
+Q: What is California's use tax?
+A: California's use tax is charged at the same rate as sales tax and applies when Californian buyers purchase tangible goods or personal property outside the state for use within California, and sales tax is not charged on the transaction.
+
+Q: What are the conditions for a business to collect sales tax in California?
+A: A business must collect sales tax in California if it has sales tax nexus in the state and sells taxable products or services generating taxable income.
+
+Q: What creates sales tax nexus in California?
+A: Sales tax nexus in California is created if a business has a physical presence in the state or meets the economic nexus threshold of $500,000 in sales income from buyers in California in the previous or current calendar year.
+
+Q: Are digital products taxable in California?
+A: No, California does not enforce a sales tax on digital goods like video game downloads, movie and music downloads, ringtones, and digital books.
+
+Q: Is Software-As-A-Service (SaaS) taxable in California?
+A: No, California does not collect sales tax on SaaS products.
+
+Q: What items are tax-exempt in California?
+A: Items considered necessities of life, providing a general public or industry benefit, excluded by definition, and other specific items are tax-exempt in California.
+
+Q: Are shipping charges subject to sales tax in California?
+A: No, shipping charges are not subject to sales tax in California as long as the delivery is made by a common carrier, U.S. mail, or an independent contractor, and the charge is the same as the actual delivery charge.
+
+Q: How often are businesses required to file and pay sales tax in California?
+A: In California, the frequency of filing and paying sales tax depends on the business's sales tax liability. Businesses with average taxable sales over $17,000 per month must prepay taxes monthly and submit a quarterly return.

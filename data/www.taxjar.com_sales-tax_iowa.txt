@@ -1,0 +1,35 @@
+Q: How can a seller be tied to a state for sales tax purposes in Iowa?
+A: A seller can be tied to a state for sales tax purposes in Iowa through physical or economic nexus.
+
+Q: What qualifies as physical nexus in Iowa?
+A: Physical nexus in Iowa includes having an office, warehouse, distribution house, place of business, employee, contractor, representative, or regularly engaging in product delivery in the state.
+
+Q: When does economic nexus apply in Iowa?
+A: Economic nexus applies in Iowa if a vendor makes more than $100,000 in sales annually in the state in the previous or current calendar year.
+
+Q: What is Iowa's Retailer Use Tax?
+A: Iowa's Retailer Use Tax is a voluntary program for remote sellers who have not yet reached economic nexus requirements in Iowa, allowing them to not register with the state, collect, and remit sales tax.
+
+Q: What types of products or services are taxable in Iowa?
+A: Tangible products are generally taxable in Iowa, with some exceptions such as certain foods and items used in agriculture or manufacturing. Services may also be taxable.
+
+Q: Is SaaS taxable in Iowa?
+A: SaaS is generally taxable in Iowa, except when being used for business purposes.
+
+Q: How can you get a sales tax permit in Iowa?
+A: You can register for a sales tax permit in Iowa online at the Iowa Department of Revenue or by submitting a registration form by mail or fax, providing personal and business identification information, business entity type, and information about the types of products or services sold.
+
+Q: How do you determine the sales tax rate to charge in Iowa?
+A: In Iowa, sales tax is destination-based. If your business is based in Iowa, you charge sales tax at the rate of your buyer's ship-to location. If you have sales tax nexus but are not based in Iowa, you would collect the same sales tax rate as an in-state seller would.
+
+Q: Do you need to charge sales tax on shipping charges in Iowa?
+A: You do not have to charge sales tax on shipping charges in Iowa as long as they are separately stated on the bill to the customer. However, if shipping is included in the price of the product, then sales tax must be collected on shipping.
+
+Q: When are Iowa sales tax returns due?
+A: The due date for filing and paying Iowa sales tax depends on your assigned filing frequency, which can be monthly, quarterly, or annually. Returns are generally due on the 20th or the final day of the month following the reporting period.
+
+Q: How can you calculate the amount of sales tax you owe in Iowa?
+A: You can use Kintsugi's Iowa sales tax report to calculate the amount of sales tax you should remit to the state. By connecting your sales channels, the report will provide the necessary information for filing your Iowa sales tax return.
+
+Q: How can you file and pay sales tax in Iowa?
+A: You can file sales tax in Iowa online at the Iowa Department of Revenue's website or use AutoFile through Kintsugi to have them file and pay your sales tax on your behalf.

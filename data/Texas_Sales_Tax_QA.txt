@@ -1,0 +1,84 @@
+
+Q: What is the state taxing authority in Texas?
+A: Texas Comptroller
+
+Q: What is the 2023 Texas sales tax rate?
+A: 6.25%
+
+Q: Are there local sales tax rates in Texas?
+A: Yes
+
+Q: Is Texas a member of the Streamlined Sales and Use Tax Agreement?
+A: No
+
+Q: What is the minimum sales tax in Texas in 2023?
+A: 6.250%
+
+Q: Can counties, cities, and towns in Texas impose local sales tax?
+A: Yes, up to 2%
+
+Q: What are some examples of local sales tax rates in Texas?
+A: North Zulch in Madison County has a sales tax rate of 6.750%, and Madisonville has a rate of 8.250%
+
+Q: What is the role of the Texas Tax Comptroller of Public Accounts?
+A: Undertakes various tax responsibilities like tax collection and revenue estimation
+
+Q: How many special purpose districts are there in Texas that impose a sales tax?
+A: Around 850 special purpose districts
+
+Q: How do you calculate sales tax in Texas?
+A: By adding state tax, district tax, and any special taxes
+
+Q: What is the total sales tax rate in Cooper, Delta County?
+A: 8.250%
+
+Q: Are groceries taxable in Texas?
+A: No, but items like candies and candied nuts are taxable
+
+Q: Is clothing taxable in Texas?
+A: Yes
+
+Q: Are digital products taxable in Texas?
+A: Yes, if their tangible equivalent is also taxable
+
+Q: Is Software-as-a-Service (SaaS) taxable in Texas?
+A: Yes, taxed as a data processing service
+
+Q: What services are taxable in Texas?
+A: Services like amusement services, cable television, data processing, and others
+
+Q: How do you register for a Texas sales tax license?
+A: Online at the Texas Comptroller website
+
+Q: Do you need a Texas sales tax permit for temporary sales in the state?
+A: Yes
+
+Q: How is sales tax collected on intrastate Texas sales?
+A: Based on the origin-based sales tax sourcing
+
+Q: How is sales tax collected on interstate Texas sales?
+A: Generally based on the buyer's location
+
+Q: Should you collect sales tax on shipping charges in Texas?
+A: Yes
+
+Q: How can you file and pay sales tax in Texas?
+A: Online, by mail, or by phone for a "zero return"
+
+Q: What is the use tax in Texas?
+A: A tax on the storage, use, or other consumption of tangible personal property or a taxable service in Texas
+
+Q: What happens if you don't collect any Texas Sales Tax in a period?
+A: You still need to file a "zero return"
+
+Q: Can you get a discount on your Texas sales tax?
+A: Yes, under certain conditions
+
+Q: What is the penalty for filing and/or paying Texas sales tax late?
+A: Penalties range from 5% to 20% based on the lateness
+
+Q: Can you get an extension on filing Texas sales tax return?
+A: No, except in disaster-declared areas
+
+Q: Can you amend a Texas sales tax return?
+A: Yes, either by amending the filed return or filing a new one for the same period

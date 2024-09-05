@@ -1,0 +1,20 @@
+Q: How can I determine if I need to collect sales tax in Vermont?
+A: You'll need to collect sales tax in Vermont if you have nexus there, either physical or economic.
+
+Q: What is considered physical nexus in Vermont?
+A: Vermont considers a seller to have physical nexus if they have physical presence, retail store, warehouse, inventory, or employees located in Vermont.
+
+Q: What is economic nexus in Vermont?
+A: Effective July 1, 2018, Vermont considers vendors who make more than $100,000 in sales annually in the state or more than 200 transactions during any preceding twelve-month period in the state to have economic nexus.
+
+Q: Are all products and services taxable in Vermont?
+A: Certain services and tangible personal property are generally taxable in Vermont. However, there are some exemptions such as certain clothing items, medical supplies, prescription drugs, and groceries. It is recommended to check the Vermont Department of Revenue to see if your specific product or service is taxable.
+
+Q: Is SaaS (Software as a Service) taxable in Vermont?
+A: SaaS is non-taxable in Vermont as of July 1, 2015.
+
+Q: How can I obtain a sales tax permit in Vermont?
+A: If you are located in Vermont, you should first register for a business tax account at the Vermont Department of Taxes. If you have economic nexus in Vermont but are not based there, it is recommended to contact the Vermont Department of Taxes before registering. You can register online, by mail, or by fax using form BR-400. Personal and business identification information, as well as NAICS Code, will be required for registration. It's free to apply for a Vermont sales tax permit, but other Vermont business registration fees may apply.
+
+Q: What are the options for calculating and filing sales tax in Vermont?
+A: You can calculate the amount of sales tax you owe in Vermont using Kintsugi's Vermont sales tax report. To file and pay sales tax, you have three options: pay online using the myVTax portal, send a payment via mail to the Vermont Department of Taxes, or use AutoFile with Kintsugi to handle the filing and payments for you.

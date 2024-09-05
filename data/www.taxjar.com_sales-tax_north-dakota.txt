@@ -1,0 +1,29 @@
+Q: How can I determine if I need to collect sales tax in North Dakota?
+A: You'll need to collect sales tax in North Dakota if you have nexus there. There are two ways to have nexus: physical or economic.
+
+Q: What qualifies as physical nexus in North Dakota?
+A: North Dakota considers a seller to have physical nexus if they have a temporary or permanent office or place of business, an employee or agent, or lease or rent tangible personal property in the state.
+
+Q: How is economic nexus determined in North Dakota?
+A: Starting from October 1, 2018, North Dakota considers vendors who make more than $100,000 in sales in the state in the previous or current calendar year to have economic nexus.
+
+Q: What items are taxable in North Dakota?
+A: Tangible products are taxable in North Dakota, but there are exceptions for certain groceries, prescription medicine and medical devices, and machinery and chemicals used in agriculture. Some services are also taxable, but there are exceptions. It's best to consult the North Dakota state site for more information.
+
+Q: Is SaaS (Software as a Service) subject to sales tax in North Dakota?
+A: No, SaaS is non-taxable in North Dakota.
+
+Q: How can I obtain a sales tax permit in North Dakota?
+A: You can apply online at the North Dakota Taxpayer Access Point (TAP) or file by mail using the North Dakota Application for Income Tax Withholding and Sales and Use Tax Permit. The required information for registration includes personal identification info, business identification info, type of business entity, NAICS code, and description of business activities. It's free to apply for a sales tax permit, but other business registration fees may apply.
+
+Q: How should I collect sales tax in North Dakota?
+A: North Dakota is a destination-based sales tax state, meaning you charge sales tax at the rate of your buyer's ship-to location. The North Dakota sales tax rate is 5%.
+
+Q: Are shipping charges taxable in North Dakota?
+A: Generally, shipping charges are taxable in North Dakota.
+
+Q: When are returns due for North Dakota sales tax?
+A: The due date for filing and paying North Dakota sales tax depends on your assigned filing frequency. In North Dakota, you can file and remit sales tax either monthly, quarterly, semiannually, or annually. Returns are due on the last day of the month following the reporting period.
+
+Q: What are the options for filing and paying sales tax in North Dakota?
+A: You have three options: file online through the North Dakota Taxpayer Access Point (TAP), file by mail using the North Dakota Sales, Use and Gross Receipts Tax form, or use AutoFile through Kintsugi to have them file and pay sales tax for you.

@@ -1,0 +1,29 @@
+Q: Do you need to collect sales tax in New Jersey?
+A: You'll need to collect sales tax in New Jersey if you have nexus there. Physical or economic nexus can trigger the obligation to collect sales tax.
+
+Q: What constitutes physical nexus in New Jersey?
+A: New Jersey considers a seller to have physical nexus if they have an office, employee, warehouse, ownership of property, delivery of merchandise, independent contractors or representatives, or provide maintenance program in the state.
+
+Q: What constitutes economic nexus in New Jersey?
+A: Effective November 1, 2018, New Jersey considers vendors who make more than $100,000 in sales annually or have more than 200 transactions in the state to have economic nexus.
+
+Q: What types of products are taxable in New Jersey?
+A: Services are generally not taxable in New Jersey, but certain information services and tangible products are taxable, with exceptions for items like clothes, groceries, and prescription drugs.
+
+Q: Is SaaS taxable in New Jersey?
+A: SaaS (Software as a Service) is non-taxable in New Jersey.
+
+Q: How can you obtain a sales tax permit in New Jersey?
+A: You can register for a sales tax permit in New Jersey either online or by filling out forms and mailing them in.
+
+Q: How do you collect sales tax in New Jersey if you are based in the state?
+A: If you have sales tax nexus in New Jersey and sell to buyers in the state, you simply charge the state and use tax rate of 6.625%.
+
+Q: Should you collect sales tax on shipping charges in New Jersey?
+A: Yes, New Jersey requires you to charge sales tax on the shipping of taxable items. If shipping both taxable and non-taxable items, separate the shipping charges based on their respective weights.
+
+Q: When are sales tax returns due in New Jersey?
+A: New Jersey sales tax returns are due either monthly or quarterly, and they are always due on the 20th of the month following the reporting period.
+
+Q: How can you file and pay sales tax in New Jersey?
+A: You can file and pay sales tax in New Jersey online through the New Jersey Division of Taxation, by mail using form ST-50, or you can use a service like TaxJar to handle the filing and payment for you.

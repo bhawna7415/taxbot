@@ -1,0 +1,29 @@
+Q: Where can you register your business for sales tax permit in Georgia?
+A: You can register your business at the Georgia Tax Center.
+
+Q: What is the deadline for filing and remitting sales tax in Georgia?
+A: Returns are due on the 20th of the month following the reporting period.
+
+Q: Can you file and pay sales tax in Georgia online?
+A: Yes, you can file online at the Georgia Department of Revenue and remit payment through their online system.
+
+Q: Can you file and pay sales tax in Georgia by mail?
+A: Yes, you can file by mail using Form ST-3 and pay through the mail.
+
+Q: Is SaaS taxable in Georgia?
+A: No, SaaS (Software as a Service) is considered non-taxable in Georgia.
+
+Q: What are the exceptions to taxable tangible products in Georgia?
+A: Certain groceries, prescription medicine and medical devices, and machinery and chemicals used in research and development are exempt from sales tax in Georgia.
+
+Q: How does Georgia determine physical nexus for sales tax collection?
+A: Georgia considers a seller to have physical nexus if they have an office or place of business, an employee present, goods in a warehouse, ownership of real or personal property, delivery of merchandise in Georgia, or independent contractors or other representatives in Georgia.
+
+Q: How does Georgia determine economic nexus for sales tax collection?
+A: Effective January 1, 2020, Georgia considers vendors who make more than $100,000 in sales annually or have more than 200 transactions in the state to have economic nexus.
+
+Q: What is the sales tax rate in Georgia?
+A: The sales tax rate in Georgia varies by location. It is based on the buyer's address for in-state sellers and the destination of the buyer for out-of-state sellers.
+
+Q: Is shipping charges taxable in Georgia?
+A: Yes, shipping charges are taxable in Georgia if you are shipping a taxable item, regardless of whether the charge is optional or separately stated.

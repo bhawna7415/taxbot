@@ -1,0 +1,26 @@
+Q: What is nexus and how does it relate to sales tax in West Virginia?
+A: Nexus is a connection or presence that a business has in a state, and it determines whether the business is required to collect and remit sales tax in that state. In West Virginia, you need to have nexus to be liable for collecting and remitting sales tax.
+
+Q: Which types of services are taxable in West Virginia?
+A: Generally, services are taxable in West Virginia, but there are some exemptions for personal and professional services.
+
+Q: Are there any exemptions for tangible products in West Virginia?
+A: Yes, certain groceries and medical devices are exempt from sales tax in West Virginia.
+
+Q: What is the process for obtaining a sales tax permit in West Virginia?
+A: To get a sales tax permit in West Virginia, you can complete the WV/BUS-APP form or register online at Business for West Virginia. You'll need personal and business identification info, a NAICS code, and your business start date.
+
+Q: How does destination-based sales tax work in West Virginia?
+A: If you sell a product through your online store and ship it to the customer, you need to charge sales tax based on the tax rate at the delivery location.
+
+Q: Do I need to charge sales tax on shipping charges in West Virginia?
+A: If you charge sales tax on an item, you should also charge sales tax on any shipping charges you charge to the customer. However, if the items being shipped are not taxable, then sales tax on shipping charges may not be necessary.
+
+Q: How often should I file sales tax returns in West Virginia?
+A: In West Virginia, you are required to file and remit sales tax either monthly, quarterly, or annually, depending on the assigned filing frequency.
+
+Q: How do I calculate the amount of sales tax I owe in West Virginia?
+A: You can use Kintsugi's West Virginia sales tax report to calculate the sales tax collected from various sales channels.
+
+Q: What are the options for filing and paying sales tax in West Virginia?
+A: You can file and pay sales tax in West Virginia online through the MyTaxes website or explore other payment options. Kintsugi's AutoFile service also provides an easy filing option for sales tax in West Virginia.

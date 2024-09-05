@@ -1,0 +1,29 @@
+Q: Do you need to collect sales tax in South Dakota?
+A: You'll need to collect sales tax in South Dakota if you have physical or economic nexus in the state.
+
+Q: What determines if you have physical nexus in South Dakota?
+A: Any "retailer maintaining a place of business in the state" has physical nexus in South Dakota.
+
+Q: How does South Dakota determine economic nexus?
+A: South Dakota considers vendors who make more than $100,000 in sales annually in the state in the previous or current calendar year to have economic nexus.
+
+Q: Are most services taxable in South Dakota?
+A: Most services in South Dakota are subject to sales tax, with some exceptions in the construction industry.
+
+Q: Are tangible products taxable in South Dakota?
+A: Tangible products are generally taxable in South Dakota, with a few exceptions like prescription medication and gasoline.
+
+Q: Is SaaS taxable in South Dakota?
+A: SaaS is considered a taxable service in South Dakota, as are other charges to access software.
+
+Q: What is use tax?
+A: Use tax is a tax that must be paid if sales tax has not been paid on products and services used or consumed in South Dakota.
+
+Q: How can you obtain a sales tax permit in South Dakota?
+A: You can apply online at the South Dakota Tax Application website or by calling 1-800-829-9188. You will need personal identification info, business identification info, business entity type, business description, and the date you started doing business in South Dakota.
+
+Q: When should you collect sales tax on shipping charges in South Dakota?
+A: Delivery charges on taxable items are taxable. If what you are selling is tax-exempt, then you don't need to charge sales tax on the shipping charges.
+
+Q: When are returns due for South Dakota sales tax?
+A: Returns and payments are generally due on the 20th day of the month following the reporting period.

@@ -1,0 +1,26 @@
+Q: Can you register for a sales tax permit online in Maine?
+A: Yes, you can register online at Maine Revenue Services.
+
+Q: How much does it cost to apply for a Maine sales tax license?
+A: It is free to apply for a Maine sales tax license.
+
+Q: Do you have to collect sales tax on services in Maine?
+A: Generally, services in Maine are not taxable.
+
+Q: What is considered tangible personal property in Maine?
+A: Tangible personal property in Maine refers to physical goods that can be seen and touched.
+
+Q: Is SaaS (Software as a Service) taxable in Maine?
+A: No, SaaS is non-taxable in Maine.
+
+Q: Do you need to collect sales tax on shipping charges in Maine?
+A: It depends. If shipping charges are separately stated, sales tax does not need to be collected. However, if shipping is included in the price of the product, sales tax must be collected.
+
+Q: What is the due date for sales tax returns in Maine?
+A: The due date for sales tax returns in Maine varies based on your assigned filing frequency, but it is typically the 15th day of the month following the reporting period.
+
+Q: How can you calculate the amount of sales tax you owe in Maine?
+A: You can use Kintsugi's sales tax report to calculate the amount of sales tax you owe in Maine.
+
+Q: How can you file and pay sales tax in Maine?
+A: You can file and pay your Maine sales tax online through the Maine Department of Revenue using Maine I-File or by mail using form ST-7. Another option is to use Kintsugi's AutoFile service.

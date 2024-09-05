@@ -1,0 +1,35 @@
+Q: Do you need to collect sales tax in Missouri?
+A: You’ll need to collect sales tax in Missouri if you have nexus there.
+
+Q: What is physical nexus in Missouri?
+A: Missouri considers a seller to have physical nexus if they have an office or place of business, an employee present in the state for more than 2 days per year, goods in a warehouse, ownership of real or personal property, delivery of merchandise in Missouri in vehicles owned by the taxpayer, or independent contractors or other representatives in Missouri for more than 2 days per year.
+
+Q: What is economic nexus in Missouri?
+A: Under Missouri's economic nexus law, retailers who make at least $100,000 of retail sales to buyers in the state in the previous 12-month period must collect sales tax from Missouri buyers.
+
+Q: Is what you're selling taxable in Missouri?
+A: Tangible products are generally taxable in Missouri, with some exceptions such as certain prescription medicine and medical devices, and machinery and chemicals used in agriculture and manufacturing. Services in Missouri are generally not taxable.
+
+Q: Is SaaS taxable in Missouri?
+A: SaaS (Software as a Service) is non-taxable in Missouri.
+
+Q: How to get a sales tax permit in Missouri?
+A: You can register online at the Missouri Department of Revenue or fill out the Missouri Tax Registration Application (Form 2643) and submit it by mail.
+
+Q: How to collect sales tax in Missouri if you're based in Missouri?
+A: If you live in Missouri, you can collect sales tax at the tax rate where your business is located.
+
+Q: How to collect sales tax in Missouri if you're not based in Missouri?
+A: If you're not based in Missouri, but have sales tax nexus in Missouri, you are considered a Missouri "remote seller" and are required to collect "use tax" that can vary slightly from Missouri sales tax rates.
+
+Q: Should you collect sales tax on shipping charges in Missouri?
+A: In 2017, Missouri declared that most shipping charges are no longer taxable.
+
+Q: When are sales tax returns due in Missouri?
+A: The due date for filing and paying sales tax in Missouri depends on your assigned filing frequency, which can be monthly, quarterly, or annually.
+
+Q: How to calculate how much sales tax you owe in Missouri?
+A: You can use Kintsugi's Missouri sales tax report to calculate how much sales tax you should remit to the state of Missouri.
+
+Q: How to file and pay sales tax in Missouri?
+A: You can file and pay sales tax in Missouri online through the Missouri Department of Revenue's website, by mail using Form 53-1, or by using Kintsugi's AutoFile feature for automated filing and remittance.

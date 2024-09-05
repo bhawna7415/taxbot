@@ -1,0 +1,38 @@
+Q: What can trigger the requirement to collect sales tax in Mississippi?
+A: Physical or economic nexus can trigger the requirement to collect sales tax in Mississippi.
+
+Q: How can physical nexus be established in Mississippi?
+A: Physical nexus in Mississippi can be established through tangible presence or business activity in the state.
+
+Q: How can economic nexus be established in Mississippi?
+A: Economic nexus in Mississippi is based on meeting the state's economic threshold for revenue or number of transactions.
+
+Q: What are the requirements for having physical nexus in Mississippi?
+A: Mississippi considers a seller to have physical nexus if they own an office or place of business in the state, or if they have employees or agents who service customers in Mississippi or solicit or accept orders for merchandise there.
+
+Q: What are the requirements for having economic nexus in Mississippi?
+A: Effective December 1, 2017, Mississippi considers vendors who make more than $250,000 in the prior 12 months in the state to have economic nexus.
+
+Q: Are services taxable in Mississippi?
+A: Services are generally not taxable in Mississippi, but there are exceptions.
+
+Q: Is SaaS taxable in Mississippi?
+A: SaaS (Software as a Service) is non-taxable in Mississippi.
+
+Q: How can you get a sales tax permit in Mississippi?
+A: To register for a sales tax permit in Mississippi, you can do so online at Mississippi’s “TAP” website.
+
+Q: How do you collect sales tax in Mississippi if you are based in the state?
+A: If you are based in Mississippi, you collect sales tax at the tax rate where your business is located.
+
+Q: How do you collect sales tax in Mississippi if you are based outside of the state?
+A: If you are based outside of Mississippi but have sales tax nexus and are required to charge sales tax in the state, you only need to charge "use tax."
+
+Q: Should you collect sales tax on shipping charges in Mississippi?
+A: Yes, as long as the item being shipped is taxable, Mississippi considers the shipping charge to be part of the sale and requires merchants to collect sales tax on the shipping charges.
+
+Q: When are sales tax returns due in Mississippi?
+A: The due date for filing and paying sales tax in Mississippi depends on your assigned filing frequency and the state's due dates.
+
+Q: How can you file and pay sales tax in Mississippi?
+A: You can file and pay sales tax in Mississippi online at the Mississippi Department of Revenue website or use AutoFile by Kintsugi for a streamlined process.

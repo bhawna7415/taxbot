@@ -1,0 +1,32 @@
+Q: How can I determine if I need to collect sales tax in Maryland?
+A: You need to determine if you have physical or economic nexus in Maryland.
+
+Q: What factors create physical nexus in Maryland?
+A: Having an office or place of business, an employee present in the state, goods in a warehouse, ownership of real or personal property, or repeat entries to the state for service or repair.
+
+Q: How can I establish economic nexus in Maryland?
+A: By making more than $100,000 in sales annually in the state or having more than 200 transactions in the state in the previous or current calendar year.
+
+Q: What types of products are taxable in Maryland?
+A: Tangible products are taxable, with some exceptions such as snack food, prescription medicine and medical devices, and farm equipment.
+
+Q: Is SaaS (Software as a Service) subject to sales tax in Maryland?
+A: Yes, SaaS is taxable in Maryland.
+
+Q: How can I obtain a sales tax permit in Maryland?
+A: You can register online or submit a paper application to the Comptroller of Maryland.
+
+Q: Do I need to charge sales tax based on my customer's location in Maryland?
+A: Yes, Maryland is a destination-based sales tax state, so you must collect sales tax based on where your customer lives.
+
+Q: Are shipping charges taxable in Maryland?
+A: Separately stated shipping charges are not taxable, but handling charges are. If shipping and handling charges are combined, the exemption for shipping charges is lost.
+
+Q: When are Maryland sales tax returns due?
+A: Sales tax returns in Maryland are due on the 20th of the month following the reporting period, which depends on your assigned filing frequency.
+
+Q: How can I calculate the amount of sales tax I owe in Maryland?
+A: You can use Kintsugi's Maryland sales tax report to calculate the amount of sales tax you owe. The report integrates with your selling channels and provides the necessary information for filing your sales tax return.
+
+Q: What are my options for filing and paying sales tax in Maryland?
+A: You can file and pay sales tax in Maryland online through the Comptroller's Office, by mail using Form 202, or by using Kintsugi's AutoFile service.

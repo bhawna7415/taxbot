@@ -1,0 +1,29 @@
+Q: Do you need to collect sales tax in Indiana?
+A: You'll need to collect sales tax in Indiana if you have nexus there, either physical or economic.
+
+Q: How can you determine if you have physical nexus in Indiana?
+A: Indiana considers a seller to have physical nexus if they have tangible presence or activity in the state, such as owned or leased property, employees, inventory, or third-party services.
+
+Q: What is economic nexus in Indiana?
+A: Indiana law requires a seller without a physical location in Indiana to collect and remit sales tax if they meet certain conditions, such as surpassing a revenue threshold or number of transactions.
+
+Q: What types of products are taxable in Indiana?
+A: Services in Indiana are generally not taxable, but tangible products are taxable with some exemptions for items like groceries, items sold to farmers, and items sold to construction contractors.
+
+Q: Is SaaS taxable in Indiana?
+A: SaaS (Software as a Service) is considered non-taxable in Indiana according to a letter ruling from November 2016.
+
+Q: How can you register for a sales tax permit in Indiana?
+A: You can register for a sales tax permit in Indiana through the state's tax center INTIME. There is a $25 registration fee.
+
+Q: Should you charge sales tax on shipping charges in Indiana?
+A: If you ship taxable goods to buyers in Indiana, you are most likely required to charge sales tax on shipping charges.
+
+Q: What are the due dates for filing and paying sales tax returns in Indiana?
+A: The due dates for filing and paying sales tax in Indiana depend on your assigned filing frequency, which can be monthly or annually. Returns are generally due on the 20th of the month following the reporting period.
+
+Q: How can you calculate how much sales tax you owe in Indiana?
+A: You can use Kintsugi's Indiana sales tax report to calculate how much sales tax you should remit to the state.
+
+Q: How can you file and pay sales tax in Indiana?
+A: You have the option to file and pay sales tax in Indiana online through the Indiana Department of Revenue or use Kintsugi's AutoFile to have them handle the process for you.

@@ -1,0 +1,35 @@
+Q: Do I need to collect sales tax in Texas?
+A: You’ll need to collect sales tax in Texas if you have nexus there.
+
+Q: What constitutes physical nexus in Texas?
+A: Physical nexus in Texas includes having an office or place of business, an employee present, a place of distribution, a warehouse or storage space, a sales or sample room, or another place where business is conducted.
+
+Q: What is economic nexus in Texas?
+A: Economic nexus in Texas means passing a state's economic threshold for total revenue or the number of transactions.
+
+Q: Which services are taxable in Texas?
+A: Taxable services in Texas include amusement services, cable and satellite television service, construction services (if separately charged for materials), credit reporting services, data processing services, debt collection services, information services, internet access services, motor vehicle parking and storage services, nonresidential real property repair, restoration or remodeling services, personal property repair, restoration or remodeling services, personal services, real property services, security services, taxable labor, telecommunications services, telephone answering services, and utility transmission and distribution services.
+
+Q: Is SaaS taxable in Texas?
+A: SaaS is considered part of a data processing service in Texas and is 80% taxable and 20% exempt from sales tax.
+
+Q: How do I obtain a sales tax permit in Texas?
+A: You can register for a Texas sales tax permit online at the Texas Comptroller of Public Accounts website or download a paper application and mail it to the Comptroller of Public Accounts.
+
+Q: How do I collect sales tax in Texas if my business is based in Texas?
+A: If you are based in Texas, you collect sales tax at the tax rate where your business is located.
+
+Q: How do I collect sales tax in Texas if my business is not based in Texas?
+A: If you are not based in Texas but made a sale into Texas from outside the state, you charge sales tax based on the destination of the item.
+
+Q: Are shipping charges taxable in Texas?
+A: Shipping charges are generally taxable in Texas if the goods being sold are also taxable.
+
+Q: When are sales tax returns due in Texas?
+A: Sales tax returns in Texas are due on the 20th of the month following the reporting period.
+
+Q: How do I calculate how much sales tax I owe in Texas?
+A: Kintsugi's Texas sales tax report can calculate how much sales tax you collected and provide all the information you need to file your Texas sales tax return.
+
+Q: How do I file and pay sales tax in Texas?
+A: You can file and pay sales tax in Texas online through the TxComptroller eSystems site, by mail using a Texas Sales and Use tax return form, or let Kintsugi handle it with their AutoFile service.

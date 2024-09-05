@@ -1,0 +1,20 @@
+Q: What determines if you need to collect sales tax in Kansas?
+A: Nexus, either physical or economic, determines if you need to collect sales tax in Kansas.
+
+Q: What qualifies as physical nexus in Kansas?
+A: Having an office or place of business, an employee present in the state, goods in a warehouse, selling goods at trade shows and festivals, or performing labor services in the state are considered physical nexus in Kansas.
+
+Q: When does economic nexus apply in Kansas?
+A: Beginning July 1, 2021, remote e-commerce sellers with over $100,000 in gross receipts from sales to customers in the state are considered to have economic nexus in Kansas.
+
+Q: Are all services taxable in Kansas?
+A: No, services are generally not taxable in Kansas. However, installing, repairing, altering, or maintaining a product may require dealing with sales tax on products.
+
+Q: Is SaaS (Software as a Service) taxable in Kansas?
+A: No, SaaS is non-taxable in Kansas. SaaS providers in Kansas are referred to as "Application Service Providers" (ASPs).
+
+Q: How can I obtain a sales tax permit in Kansas?
+A: You can obtain a sales tax permit in Kansas by registering online with the Kansas Department of Revenue or by filling out a sales tax registration form and sending it to the department. There is no fee for the sales tax permit in Kansas.
+
+Q: How do I calculate and file sales tax in Kansas?
+A: You can use Kintsugi's Kansas sales tax report to calculate the amount of sales tax you owe in Kansas. To file and pay sales tax, you can file online through the Kansas Department of Revenue's system, file by mail using the appropriate forms, or use Kintsugi's AutoFile service for automated filing and payment.

@@ -1,0 +1,38 @@
+Q: How can I determine if I need to collect sales tax in Virginia?
+A: You'll need to consider physical or economic nexus to determine if you need to collect sales tax in Virginia.
+
+Q: What is physical nexus in Virginia?
+A: Physical nexus in Virginia includes having an office or place of business, employees or contractors in the state, goods stored in a warehouse, property ownership, leased property, frequent merchandise deliveries, or advertising presence.
+
+Q: What is economic nexus in Virginia?
+A: Economic nexus in Virginia is established if your business makes sales of $100,000 or more in the state or has at least 200 individual sales transactions.
+
+Q: Are all products and services taxable in Virginia?
+A: Services are generally not taxable in Virginia. However, there may be sales and use tax on products created or manufactured through services. Most tangible retail products are taxable in Virginia, with a few exceptions.
+
+Q: Is SaaS taxable in Virginia?
+A: No, SaaS (Software as a Service) is not taxable in Virginia.
+
+Q: How can I obtain a sales tax permit in Virginia?
+A: You must register with the Virginia Department of Taxation. You can do this online through VATAX or by completing Form R-1 and submitting it to the department.
+
+Q: How should I collect sales tax in Virginia if my business is based in Virginia?
+A: If your business is in Virginia, you should collect sales tax based on the tax rate where your business is located. Virginia is an origin-based sales tax state for in-state sellers.
+
+Q: How should I collect sales tax in Virginia if my business is not based in Virginia?
+A: If you make sales into Virginia from outside the state, you should charge sales tax based on the destination of the buyer.
+
+Q: Do I need to collect sales tax on shipping charges in Virginia?
+A: If you separately state shipping charges on the bill to your customer, you do not have to charge sales tax on shipping. However, if shipping charges are combined with handling charges or included in the product price, they may be taxable.
+
+Q: When are sales tax returns due in Virginia?
+A: Sales tax returns in Virginia are due on the 20th of the month following the reporting period.
+
+Q: How often do I need to file sales tax returns in Virginia?
+A: Your filing frequency for sales tax in Virginia will be either monthly or quarterly, depending on your assigned filing schedule.
+
+Q: How can I calculate the amount of sales tax I owe in Virginia?
+A: You can use Kintsugi's Virginia sales tax report to calculate the amount of sales tax you should remit to the state of Virginia.
+
+Q: What are the options for filing and paying sales tax in Virginia?
+A: You can file and pay online through VATAX Online Service for Business, file by mail using form ST-8 or ST-9, or use Kintsugi's AutoFile service, which files and pays sales tax on your behalf.

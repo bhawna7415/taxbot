@@ -1,0 +1,32 @@
+Q: How can I determine if I need to collect sales tax in North Carolina?
+A: You need to collect sales tax in North Carolina if you have nexus there.
+
+Q: What constitutes physical nexus in North Carolina?
+A: Physical nexus in North Carolina includes having an office or place of business, employees, independent contractors, agents, or other representatives, or any place of distribution, sales or sample room, warehouse, storage place, or other place of business in the state.
+
+Q: Is economic nexus applicable in North Carolina?
+A: Yes, North Carolina considers vendors who make more than $100,000 in sales annually in the state or more than 200 transactions in the state in the previous or current calendar year to have economic nexus.
+
+Q: What types of products are taxable in North Carolina?
+A: Tangible products are generally taxable in North Carolina, with exceptions for certain groceries, prescription medicine and medical devices, and machinery and chemicals used in research and development.
+
+Q: Is SaaS subject to sales tax in North Carolina?
+A: No, Software as a Service (SaaS) is not taxable in North Carolina.
+
+Q: What is use tax and when is it applicable in North Carolina?
+A: Use tax in North Carolina is applicable when you purchased, leased, or rented items inside or outside the state for storage, use, or consumption in the state and did not pay the applicable sales and use tax at the time of purchase.
+
+Q: How can I obtain a sales tax permit in North Carolina?
+A: You can apply for a sales tax permit in North Carolina electronically through North Carolina business services or by mail.
+
+Q: Should I collect sales tax on shipping charges in North Carolina?
+A: Yes, shipping charges are considered taxable in North Carolina.
+
+Q: What are the deadlines for filing sales tax returns in North Carolina?
+A: The filing frequency and due dates for North Carolina sales tax returns depend on your assigned filing frequency, with returns generally due on the 20th or the final day of the month following the reporting period.
+
+Q: How can I calculate the amount of sales tax I owe in North Carolina?
+A: You can use Kintsugi's North Carolina sales tax report to calculate how much sales tax you owe in North Carolina.
+
+Q: What are the options for filing and paying sales tax in North Carolina?
+A: You have three options: file online through the North Carolina Department of Revenue's online system, file by mail using form E-500 and pay through the mail, or use Kintsugi's AutoFile service to have Kintsugi file your sales tax for you.

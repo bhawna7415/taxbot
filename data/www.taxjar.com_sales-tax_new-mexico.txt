@@ -1,0 +1,26 @@
+Q: What determines if you need to collect sales tax in New Mexico?
+A: The presence of nexus in New Mexico determines if you need to collect sales tax.
+
+Q: What type of tax does New Mexico have instead of sales tax?
+A: New Mexico has a gross receipts tax instead of sales tax.
+
+Q: How does New Mexico determine economic nexus?
+A: New Mexico considers retailers with $100,000 or more in annual gross revenue from sales in the state to have economic nexus.
+
+Q: What types of sales are taxable in New Mexico?
+A: Generally, sales and leases of goods and property, as well as most services, are taxable in New Mexico.
+
+Q: Is Software-as-a-Service (SaaS) taxable in New Mexico?
+A: Yes, SaaS is taxable in New Mexico.
+
+Q: What are the options for getting a sales tax permit in New Mexico?
+A: You can register online or mail in form ACD-31015 to obtain a sales tax permit in New Mexico.
+
+Q: Are shipping charges taxable in New Mexico?
+A: In most cases, shipping charges are taxable in New Mexico.
+
+Q: When are returns due for New Mexico sales tax?
+A: New Mexico sales tax returns are typically due on the 25th day of the month following the reporting period.
+
+Q: How can you file and pay sales tax in New Mexico?
+A: You can file and pay your New Mexico sales tax online, or you can use AutoFile with Kintsugi as an alternative option.

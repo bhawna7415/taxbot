@@ -1,0 +1,23 @@
+Q: Can I collect sales tax in Connecticut if I don't have physical presence there?
+A: No, you need to have physical or economic nexus in Connecticut to collect sales tax.
+
+Q: Are all services exempt from sales tax in Connecticut?
+A: Not all services are exempt from sales tax in Connecticut. Services involving creating or manufacturing a product may be taxable.
+
+Q: What is the tax rate for SaaS used for personal purposes in Connecticut?
+A: The tax rate for SaaS used for personal purposes in Connecticut is the full state rate of 6.35%.
+
+Q: Can I register for a sales tax permit in Connecticut online?
+A: Yes, you can register for a sales tax permit in Connecticut online through MyConnectCT.
+
+Q: Are there any local sales tax rates in Connecticut?
+A: No, there are no local sales tax rates in Connecticut. It is a flat 6.35% statewide.
+
+Q: Do I need to charge sales tax on shipping charges in Connecticut?
+A: Whether you need to charge sales tax on shipping charges in Connecticut depends on the taxability of the items being shipped. If the items are taxable, then the shipping charges are also taxable.
+
+Q: What are the filing deadlines for sales tax returns in Connecticut?
+A: The filing deadlines for sales tax returns in Connecticut depend on your assigned filing frequency, either monthly, quarterly, or annually. Returns are due the last day of the month following the reporting period.
+
+Q: Can I file and pay sales tax electronically in Connecticut?
+A: Yes, you can file and pay sales tax electronically in Connecticut through the Connecticut Department of Revenue Services website. You can also use AutoFile through Kintsugi for automatic filing and payment.

@@ -1,0 +1,29 @@
+Q: What determines if you need to collect sales tax in Illinois?
+A: Nexus, either physical or economic, determines if you need to collect sales tax in Illinois.
+
+Q: What constitutes physical nexus in Illinois?
+A: Having a physical presence such as an office, warehouse, or place of business, an employee, contractor, salesperson, agent or representative, or a 3rd party affiliate in Illinois constitutes physical nexus.
+
+Q: What constitutes economic nexus in Illinois?
+A: In Illinois, making more than $100,000 in sales in the previous four quarters or having more than 200 transactions in the state constitutes economic nexus.
+
+Q: Are services generally taxable in Illinois?
+A: No, services in Illinois are generally not taxable, but there are exceptions if the service includes creating or manufacturing a product.
+
+Q: Is SaaS (Software as a Service) taxable in Illinois?
+A: No, SaaS is considered a non-taxable service in Illinois.
+
+Q: How can you get a sales tax permit in Illinois?
+A: You can register online through MyTaxIllinois or mail in form REG-1 to the specified address. Provide identifying information about your business, the type of business, owners and officers, description of business activities, and addresses of Illinois locations.
+
+Q: How do you collect sales tax in Illinois if you are not based there?
+A: Remote sellers and marketplace facilitators in Illinois are required to collect and remit the state and locally-imposed Retailers’ Occupation Tax (ROT) based on the delivery destination rather than solely collecting the state use tax.
+
+Q: Are shipping charges taxable in Illinois?
+A: Yes, shipping is generally taxable in the state of Illinois.
+
+Q: When are sales tax returns due in Illinois?
+A: Sales tax returns in Illinois are due on the 20th of the month following the reporting period, with filing frequency options of monthly, quarterly, or annually.
+
+Q: How can you file and pay sales tax in Illinois?
+A: You can file online through MyTax Illinois, file by mail using Form ST-1, or use AutoFile with Kintsugi for automated filing and payment.

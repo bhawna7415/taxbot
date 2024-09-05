@@ -1,0 +1,22 @@
+WEBSITES = [
+    {'url': 'www.taxjar.com', 'site': 'TaxJar'}, 
+    {'url': 'www.revenue.alabama.gov', 'site': 'Alabama'}, 
+    {'url': 'www.commerce.alaska.gov', 'site': 'Alaska'}, 
+    {'url': 'arsstc.org', 'site': 'Alaska'}, 
+    {'url': 'azdor.gov', 'site': 'Arizona'}, 
+    {'url': 'www.dfa.arkansas.gov', 'site': 'Arkansas'}, 
+    {'url': 'www.cdtfa.ca.gov', 'site': 'California'}, 
+    {'url': 'tax.colorado.gov', 'site': 'Colorado'},
+    {'url': 'portal.ct.gov', 'site': 'Connecticut'},
+    {'url': 'floridarevenue.com', 'site': 'Florida'},
+    {'url': 'dor.georgia.gov', 'site': 'Georgia'}, 
+    {'url': 'tax.hawaii.gov', 'site': 'Hawaii'},
+    {'url': 'tax.idaho.gov', 'site': 'Idaho'},
+    {'url': 'tax.illinois.gov', 'site': 'Illinois'},
+    {'url': 'www.in.gov', 'site': 'Indiana'},
+    {'url': 'tax.iowa.gov', 'site': 'Iowa'},
+    {'url': 'www.ksrevenue.gov', 'site': 'Kansas'}, {'url': 'revenue.ky.gov', 'site': 'Kentucky'}, {'url': 'www.revenue.louisiana.gov', 'site': 'Louisiana'}, {'url': 'www.maine.gov', 'site': 'Maine'}, {'url': 'www.marylandtaxes.gov', 'site': 'Maryland'}, {'url': 'www.mass.gov', 'site': 'Massachusetts'}, {'url': 'www.michigan.gov', 'site': 'Michigan'}, {'url': 'www.revenue.state.mn.us', 'site': 'Minnesota'}, {'url': 'www.dor.ms.gov', 'site': 'Mississippi'}, {'url': 'dor.mo.gov', 'site': 'Missouri'}, {'url': 'revenue.nebraska.gov', 'site': 'Nebraska'}, {'url': 'tax.nv.gov', 'site': 'Nevada'}, {'url': 'www.nj.gov', 'site': 'New Jersey'}, {'url': 'www.tax.newmexico.gov', 'site': 'New Mexico'}, {'url': 'www.tax.ny.gov', 'site': 'New York'}, {'url': 'www.ncdor.gov', 'site': 'North Carolina'}, {'url': 'www.tax.nd.gov', 'site': 'North Dakota'}, {'url': 'tax.ohio.gov', 'site': 'Ohio'}, {'url': 'oklahoma.gov', 'site': 'Oklahoma'}, {'url': 'www.revenue.pa.gov', 'site': 'Pennsylvania'}, {'url': 'tax.ri.gov', 'site': 'Rhode Island'}, {'url': 'dor.sc.gov', 'site': 'South Carolina'}, {'url': 'dor.sd.gov', 'site': 'South Dakota'}, {'url': 'www.tn.gov', 'site': 'Tennessee'}, {'url': 'comptroller.texas.gov', 'site': 'Texas'}, {'url': 'tax.utah.gov', 'site': 'Utah'}, {'url': 'tax.vermont.gov', 'site': 'Vermont'}, {'url': 'www.tax.virginia.gov', 'site': 'Virginia'}, {'url': 'dor.wa.gov', 'site': 'Washington'}, {'url': 'cfo.dc.gov', 'site': 'Washington DC'}, {'url': 'tax.wv.gov', 'site': 'West Virginia'}, {'url': 'docs.legis.wisconsin.gov', 'site': 'Wisconsin'}, {'url': 'revenue.wyo.gov', 'site': 'Wyoming'}, {'url': 'www.avalara.com', 'site': 'Avalara'}, {'url': 'www.numeralhq.com', 'site': 'Numeral'}, {'url': 'zamp.com', 'site': 'Zamp'}, {'url': 'www.anrok.com', 'site': 'Anrok'}, {'url': 'www.salestaxhandbook.com', 'site': 'SalesTaxHandbook'}, {'url': 'drive.google.com', 'site': 'TaxValet'},
+    {'url': 'thetaxvalet.com', 'site': 'TaxValet'},
+    {'url': 'www.salestaxinstitute.com', 'site': 'Sales Tax Institute'},
+    {'url': 'www.taxconnex.com', 'site': 'Tax Connex'}
+    ]

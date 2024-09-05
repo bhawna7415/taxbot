@@ -1,0 +1,26 @@
+Q: What is physical nexus?
+A: Physical nexus means having enough tangible presence or activity in a state to merit paying sales tax in that state.
+
+Q: What are examples of physical nexus in Arkansas?
+A: Examples of physical nexus in Arkansas can include having an office or place of business, a warehouse or agency, or real or personal property in the state.
+
+Q: What is economic nexus?
+A: Economic nexus means passing a state's economic threshold for total revenue or the number of transactions.
+
+Q: How does economic nexus work in Arkansas?
+A: In Arkansas, vendors who make more than $100,000 in sales annually or more than 200 transactions in the state have economic nexus.
+
+Q: Is SaaS taxable in Arkansas?
+A: No, SaaS (Software as a Service) is non-taxable in Arkansas.
+
+Q: What is required to get a sales tax permit in Arkansas?
+A: To get a sales tax permit in Arkansas, you need to provide your SSN or ITIN number, business identification information, business entity type, nature of your business, and NAICS Code.
+
+Q: How much does it cost to apply for an Arkansas sales tax permit?
+A: It costs $50 to apply for an Arkansas sales tax permit.
+
+Q: How can you calculate the amount of sales tax you owe in Arkansas?
+A: You can use Kintsugis's Arkansas sales tax report to calculate the exact amount of sales tax you collected.
+
+Q: How can you file and pay sales tax in Arkansas?
+A: You have three options: file online through the Arkansas Taxpayer Access Point (ATAP) and make the payment online, file by mail using Form ET-1, or use Kintsugi's AutoFile service to file and pay your sales tax automatically.

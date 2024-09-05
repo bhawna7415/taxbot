@@ -1,0 +1,13 @@
+transaction_external_id,status,transaction_source,date,total_amount,total_tax_amount,currency,description,customer_id,customer_name,customer_email,marketplace,line_item_id,product_external_id,product_name,product_description,amount,tax_amount,quantity,exempt
+in_1Ntx1nGsLTDOYKcGPMUP22Q2,paid,charge_automatically,9/24/23 18:27,200,,usd,,cus_Md97fei4LAGQEO,,,,,,,,200,,,
+in_1NiiFlGsLTDOYKcGg1BGTiMJ,paid,charge_automatically,8/24/23 18:27,200,,usd,,cus_Md97fei4LAGQEO,,,,,,,,200,,,
+in_1NXTSYGsLTDOYKcG3RwtOmIr,paid,charge_automatically,7/24/23 18:26,0,,usd,,cus_Md97fei4LAGQEO,,,,,,,,0,,,
+in_1NqGiUGsLTDOYKcG3IyoCJqI,paid,charge_automatically,9/14/23 14:40,200,,usd,,cus_H61oWCesutcxAJ,"Abusix, Inc.",,,,,,,200,,,
+in_1Nf1xHGsLTDOYKcGpGVM2pUX,paid,charge_automatically,8/14/23 14:41,200,,usd,,cus_H61oWCesutcxAJ,"Abusix, Inc.",,,,,,,200,,,
+in_1NTn9zGsLTDOYKcGOmdPfMix,paid,charge_automatically,7/14/23 14:39,200,,usd,,cus_H61oWCesutcxAJ,"Abusix, Inc.",,,,,,,200,,,
+in_1NIuupGsLTDOYKcG93iU7ixT,paid,charge_automatically,6/14/23 14:43,200,,usd,,cus_H61oWCesutcxAJ,"Abusix, Inc.",,,,,,,200,,,
+in_1N7g6kGsLTDOYKcGzOHSgR9h,paid,charge_automatically,5/14/23 14:41,200,,usd,,cus_H61oWCesutcxAJ,"Abusix, Inc.",,,,,,,200,,,
+in_1MwnmjGsLTDOYKcGgYxNRzEK,paid,charge_automatically,4/14/23 14:39,200,,usd,,cus_H61oWCesutcxAJ,"Abusix, Inc.",,,,,,,200,,,
+in_1MlZ1GGsLTDOYKcGI9pgw457,paid,charge_automatically,3/14/23 14:40,200,,usd,,cus_H61oWCesutcxAJ,"Abusix, Inc.",,,,,,,200,,,
+in_1MbPiFGsLTDOYKcGCGvAsrfb,paid,charge_automatically,2/14/23 14:42,200,,usd,,cus_H61oWCesutcxAJ,"Abusix, Inc.",,,,,,,200,,,
+in_1MQAu4GsLTDOYKcGBVkCVJbs,paid,charge_automatically,1/14/23 14:40,200,,usd,,cus_H61oWCesutcxAJ,"Abusix, Inc.",,,,,,,200,,,

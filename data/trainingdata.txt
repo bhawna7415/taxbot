@@ -1,0 +1,96 @@
+Question	Current Answer	Tag	Internal comments
+"Customer has a co-packer in Arkansas. Customer reimburses monthly the co-packer for their manufacturing and fulfillment costs.
+Does Customer have physical nexus in Arkansas?"	Yes, Customer has physical nexus in Arkansas. 	Physical Nexus
+"Customer has a co-packer in Arkansas. Customer reimburses monthly the co-packer for their manufacturing and fulfillment costs.
+Does Customer need an exemption certificate to prove that they shouldn't be taxed on the product they purchase from the facility that the co-packer operates?"	Yes, Customer needs to produce exemption certificate to prove that their purchases are tax exempt since the purpose of the purchase is to resell the products.	Exemption Certificate, Reseller
+"Do you happen to know what the exemption policy is for the following scenarios for Customer?
+Seller in California, buyer in New Jersey
+Seller in New Jersey, buyer in New Jersey
+
+In relation to this, how exemption certificates work when you're operating as a marketplace?"	States generally specify that marketplace facilitators are not required to provide exemption certificates to businesses selling on the marketplace until they have met economic nexus.	Exemption Certificate, Marketplace
+"Do you happen to know what the exemption policy is for the following scenario for Customer?
+They follow both models (marketplace and buying and selling on record). I suppose for a reseller certificate, we need to register in CA as they give a CA address to their vendors."	You are correct on reseller certificate, we need to register in CA as they give a CA address to their vendors.	Registration, Reseller
+If we wanted to file in Ohio and Illinois, when would you suggest would be our filing date? 	"The states assign their own filing schedule for businesses and deadlines are also set by states.
+1. For Ohio the deadline was 10/23/2023 for September 2023 filing (which we have executed) and the state wants monthly filing.
+2. For Illinois they assigned quarterly filing and deadline for Q3 was 10/20/2023 which we again have executed."	Filing
+"We the accounting partner received a notice from the state and the customer invoice copy which has triggered this tax liability.
+Please let us know the next steps to take action on this.
+
+Context: The customer imported a computer hardware from China worth $35k+ and the CA state sent them a use tax notice."	"Based on the receipt, the product (QC-Db - u10004),a computer hardware, was purchased from China with no tax and was shipped to California.
+
+Generally, use tax applies to purchases of tangible personal property made outside the United States and brought into, or shipped into California for storage, use, or other consumption. The purchaser is responsible for paying use tax which can be done online using the letter ID. The proposed tax due provided in the notice is correct.
+
+We verified first the rate used for the tax due with the state. Per the notice, the combined tax rate used was 10.25% but should be 8.75% only.
+
+The rate used for the computation of tax was the tax rate for the address reflected on the website. Per the agent we connected with in the state, it might be the address where the product was used/consumed and was provided to them by the customs. If this address is correct, then the tax due computed was correct also. This can be paid online."	Use tax
+"Please correct my understanding and advise what to reply to our clients:
+
+The client crossed the economic threshold in 2021, what do we suggest to our clients?
+Option A: Register now (in the current month) as they didn't collect the taxes, do not recommend paying taxes from the client's pocket
+Option B:  Register with a backdated date & file nil returns and start collecting & remiting taxes from now. Here we file a Nil return because we have not collected any taxes from the customer.
+Option C:  Register with the backdated date and file & pay taxes from the client's pocket. Loss for our client
+Option D:  Go for VDA
+"	Options A and B limit immediate financial impact, they do not fully address past liabilities and leave the client vulnerable to potential audits and penalties. Options C and D are more compliant but come with financial implications. The VDP, in particular, is often a strategic approach to manage past liabilities with potentially favorable terms. Ultimately, the best course of action depends on the client's specific situation, risk tolerance, and financial capacity. We recommend talking to an expert before making the decision	VDP, VDA, Past sales tax liabilities
+"Please correct my understanding and advise what to reply to our clients:
+Case 2 -  The client crossed the Physical nexus in 2021,  what do we suggest to our clients
+Option A: Register now   (in the current month) as they didn't collect the taxes, do not recommend paying taxes from the client's pocket
+Option B:  Register with a backdated date and file nil returns and start collecting & remiting taxes from now. Here we file a Nil return because we have not collected any taxes from the consumer
+Option C:  Register with the backdated date and file & pay taxes from the client's pocket.  Loss for our client
+Option D:  Go for VDA
+"	Options A and B limit immediate financial impact, they do not fully address past liabilities and leave the client vulnerable to potential audits and penalties. Options C and D are more compliant but come with financial implications. The VDP, in particular, is often a strategic approach to manage past liabilities with potentially favorable terms. Ultimately, the best course of action depends on the client's specific situation, risk tolerance, and financial capacity. We recommend talking to an expert before making the decision	VDP, VDA, Past sales tax liabilities
+When does the Department generally come for an Audit?	We cannot comment on this as it depends on the profile of the business and the specific state, best to consult with an expert
+ Customer has outsourced the SDR team. What details do you need pertaining to outsourced SDR to determine physical nexus?	Please let us know the locations (with Zipcodes) of outsourced SDR for us to determine physical nexus	Physical Nexus, Outsourced Team
+"Customer is attending a Marketing Event within the US in november.  For the event, customer is offering tickets and sponsors and we will have to issue invoices to collect.  As of today, we have 2 sponsors for 1000 usd each.
+Will those invoices be subject to Sales Tax?"	"
+Sponsorship payments are generally NOT sales and the question would be around income tax. If there are no other sales in DC, the invoices are also well below the threshold of $100,000 (even after combining with invoice data from Revenue Details) and thus the invoices should not be subject to sales tax. "	Sales tax on event tickets, sales tax on event sponsorships
+For the same event client issued various tickets through a ticketing system (marketplace facilitator). How does client collect sales tax?	Since the event is in D.C., The ticket sales tax is collected and remitted by the ticketing website, so the client does not have to worry. Ticketing website's ticket purchasing page automatically adds sales tax to the ticket sale.
+If sales are through marketplace facilitator how are sales taxes collected?	"In most states marketplace facilitator must collect and remit taxes on behalf of the organizers. Organizers have no say in this. Some entities like NGOs and some event types like a ballet performance could be tax exempt, and the organizers need to specify these details along with proofs required.
+In some other locations, only the organizer is responsible to set up the tax rates, collect and remit sales taxes.
+"
+How are sponsorship payments subject to sales tax?	Whether the sponsorship is sales taxable or not depends on a few factors like whether the sponsor receives any tangible services in return for the sponship paid and whether the sponsorship receiving business hit economic threshold in the state. Please consult with an expert.
+"Our client, Customer, has inquired about whether they can accept the sales tax exemption from resale partner customers.
+
+- For 2021 and 2022, all purchases were made by resale partner via resale back to the other resale partner legal entities. 1st attachment is the Uniform Sales & Use Tax Resale Certificate – Multi for these transactions (resale).
+
+In 2023, resale partner moved to a more direct approach to sourcing.  The 2023 PO’s reflect that these purchases were made directly by resale partner.  2nd attachment is OH form STEC B for these transactions (direct pay)."	"1. The multijurisdiction state resale certificate was signed on 01/01/2022, and should be used for the purchases made from 01/01/2022 until expiration (date varies per state) and should not be used for the prior year 2021. To qualify for the 2021 purchases, resale partner should provide a resale certificate signed on the '2021 purchased date'.
+2. The name of the entity purchasing should be the one issuing the resale certificate. Thus, the name of the purchaser should reflect on the certificate and not the name of the other legal entities. In this case, resale partner was the one purchasing the item and the resale certificate is showing the entity's name. Thus, the certificate is valid for this scenario.
+3. Per checking the list of active OH direct permit holders, resale partner was listed as an active vendor/permit holder and not resale partner. resale partner should have a separate direct pay permit as they are different and separate legal entities. On the Sales and Use Tax Blanket exemption certificate you provided us, resale partner Insulating Systems is listed as the purchaser, but there is only a Direct Pay Permit issued to resale partner. Since they are separate legal entities, they actually need to have a direct pay permit for each."	Exemption Certificate, Direct Pay Permit
+For Business Analyst and Quality Analyst service delivered to customers in Tennessee, do we need to charge Sales Tax? 	General services are subject to sales tax whereas Business or Profesisonal Services are generally not. Please consult with an expert	Sales tax on professional services
+"I wanted to check if Apple / Google app store purchases do the following:
+1. Collect sales tax when customers buy
+2. track nexus
+3. If they collect sales tax, who remits it to the states? (Apple / Google or the company collecting it?)
+Any other guidance on this is much appreciated!"	"1. Apple app store and Google app store do collect sales tax. Its based on type of app that you are selling.
+2. They do not track nexus since the same company may be selling apps on different marketplaces.
+3. Businesses typically still have to remit and file sales tax if they have collected it. If the sales tax is already collected by the marketplace facilitator it is generally them who remits to the states. Please consult with an expert "	General
+"Are tax-exempt certificates limited to capital equipment expenses, or can they be used for consumables such as chemicals and pipette tips? We’ll get set up with a few vendor certificates if we can use these for consumables.
+
+Let us know if the certificate can be used for other consumables as well."	Typically in California, consumables have a little bit of nuance on whether they can be tax exempt or not. Typically, they are only tax exempt if they have a useful life of more than 1 year. So this would be up to the client to determine if their use fits this but I would imagine that for things like pipette tips or chemicals would be consumed upon use so they would not qualify for Tax Exemption.	Exemptions on consumables
+"Client requires a partial sales and use tax exemption certificate in CA. They want to reduce their tax rate from 7.25% to 3.3% on capital expenses, and are eligible as a startup.
+We have their CA qualification and Statement of Information for your reference.
+
+Please take this request forward. Please let me know if we require more information"	"The CA sales and use tax partial exemption is applicable only for Manufacturing and Research & Development Equipment. To be qualified, business should be primarily engaged in those lines of business described in the North American Industry Classification System (NAICS) Codes 3111 to 3399, inclusive, 541711, or 541712, or beginning January 1, 2018, 22111 to 221118, inclusive, and 221122. The customer's business type indicated on the previously attached form is Biotech based products, we assumed they are primarily engaged in biotechnology which is described in 541711 / 541712 of the NAICS.
+Other qualifications;
+Purchasing a qualified tangible personal property and will be used primarily for any of the below;
+1. For manufacturing, processing, refining, fabricating, or recycling;
+2. For research and development;
+3. To maintain, repair, measure, or test any property being used for (1) or (2) above; or
+4. As a special-purpose building and/or foundation
+
+The partial exemption rate is currently 3.9375 percent. Accordingly, when the partial exemption applies, the sales or use of the qualifying tangible personal property is taxed at a rate of 3.3125 percent (7.25 percent current statewide tax rate – 3.9375 percent partial exemption rate) plus any applicable district taxes.
+
+Please let the client confirm that they meet the above qualifications. They can also opt to provide the certificate for each purchase, or may issue blanket certificates as long as they will advise the retailer on the purchase order, sales agreement, etc. regarding any purchases that are not subject to the partial exemption.
+
+Please note that a full tax rate should be paid when;
+• The purchase exceeds the $200 million limit in a calendar year;
+• The property is removed from California within one year of the date of purchase or lease;
+• The property is converted for use in a manner not qualifying for the exemption; or
+• The property is used in a manner not qualifying for the partial exemption.
+"	Partial exemptions
+"
+
+The client is an NPO and 501c3 organization and raising Sponsorships for Summit to be held in Oct/ Nov 2023.
+
+We have the Sponsorship document and a draft invoice format that we are sending to our Sponsors, should we include anything on taxes and should we add taxes?"	"Per Virginia regulations,  client indeed should not collect sales tax on invoices, please find below the link as proof:
+
+https://www.tax.virginia.gov/nonprofit-organizations"	Sales tax on sponsorships

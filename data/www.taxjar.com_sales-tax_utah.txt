@@ -1,0 +1,20 @@
+Q: What is considered enough tangible presence in Utah to have physical nexus?
+A: Having or using an office, distribution house, warehouse, or regularly delivering property in Utah.
+
+Q: Are there economic thresholds for sales tax nexus in Utah?
+A: Yes, if you make more than $100,000 in sales annually or more than 200 transactions in Utah, you have economic nexus.
+
+Q: Is Software-as-a-Service (SaaS) subject to sales tax in Utah?
+A: Yes, SaaS is taxable in Utah.
+
+Q: How can I register for a sales tax permit in Utah?
+A: You can register online at Utah's One Stop Business Registration System or file by mail using Form TC-69.
+
+Q: What information and documents are required to register for a sales tax permit in Utah?
+A: You'll need personal and business identification info, business entity type, and an estimate of your annual net sales and purchases subject to Utah sales tax.
+
+Q: What tool can I use to calculate my sales tax liability in Utah?
+A: You can use Kintsugi's Utah sales tax report to calculate how much sales tax you owe.
+
+Q: Can I file and pay sales tax online in Utah?
+A: Yes, you have the option to file and pay online in Utah. Alternatively, you can use Kintsugi's AutoFile service to have them file and pay your sales tax for you.

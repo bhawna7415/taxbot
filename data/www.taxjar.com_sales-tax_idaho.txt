@@ -1,0 +1,32 @@
+Q: Do you need to collect sales tax in Idaho?
+A: You’ll need to collect sales tax in Idaho if you have nexus there.
+
+Q: What are the two ways that sellers can have nexus in a state?
+A: Sellers can have physical or economic nexus in a state.
+
+Q: How does Idaho define physical nexus?
+A: Idaho considers a seller to have physical nexus if they have a physical presence or activity in the state, such as an office, warehouse, or sales room.
+
+Q: How does Idaho define economic nexus?
+A: Effective June 1, 2019, Idaho considers businesses with over $100,000 in sales to customers in Idaho to have economic nexus.
+
+Q: Are services taxable in Idaho?
+A: Services in Idaho are generally not taxable, but creating or manufacturing a product through a service may be subject to sales tax.
+
+Q: Is SaaS taxable in Idaho?
+A: SaaS is non-taxable in Idaho. Remotely accessed computer software and digital subscriptions are not subject to sales tax.
+
+Q: How do you get a sales tax permit in Idaho?
+A: You can register online with the Idaho Business Registration application or print out the paper form and mail it to the Idaho Business Registration office.
+
+Q: How do you determine the sales tax rate for in-state sellers in Idaho?
+A: Idaho is a destination-based sales tax state, so you charge sales tax at the rate of your buyer's ship-to location.
+
+Q: Do you need to charge sales tax on shipping charges in Idaho?
+A: If shipping charges are separately stated on the bill, you do not have to charge sales tax. If shipping is included in the price of the product, sales tax must be collected on shipping.
+
+Q: When are sales tax returns due in Idaho?
+A: Sales tax returns in Idaho are due on the 20th of the month following the reporting period.
+
+Q: How do you file and pay sales tax in Idaho?
+A: You can file online through the Idaho State Tax Commission's Taxpayer Access Point, file by mail using Form 850, or use AutoFile with Kintsugi to automate the filing and payment process.

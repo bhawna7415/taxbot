@@ -1,0 +1,32 @@
+Q: What is nexus in Pennsylvania and when do you need to collect sales tax?
+A: Nexus in Pennsylvania refers to having a physical or economic presence in the state. You need to collect sales tax if you have nexus in Pennsylvania.
+
+Q: What qualifies as physical nexus in Pennsylvania?
+A: Physical nexus in Pennsylvania can be established if you have an office or place of business, an employee present, goods in a warehouse, ownership of property, delivery of merchandise, independent contractors, or leasing property in the state.
+
+Q: How is economic nexus determined in Pennsylvania?
+A: Economic nexus in Pennsylvania is determined based on sales into the state exceeding $100,000 in the previous 12-month period. A notice and report is also required for taxable sales between $10,000 and $100,000 in a calendar year.
+
+Q: What types of products are taxable in Pennsylvania?
+A: Tangible products are generally taxable in Pennsylvania, with some exceptions. Services are generally not taxable unless they involve selling, repairing, or building a product.
+
+Q: Is SaaS taxable in Pennsylvania?
+A: Yes, SaaS (Software-as-a-Service) is taxable in Pennsylvania.
+
+Q: How can you obtain a sales tax permit in Pennsylvania?
+A: You can register for a sales tax permit in Pennsylvania by completing the PA-100 form online or by mailing it to the Pennsylvania Department of Revenue. There is no charge for a sales tax permit, but other business registration fees may apply.
+
+Q: How do you collect sales tax in Pennsylvania if your business is based there?
+A: If your business is based in Pennsylvania, you collect sales tax at the tax rate where your business is located. If you have multiple locations in Pennsylvania, the sales tax rate is based on the point of origin of the sale.
+
+Q: How do you collect sales tax in Pennsylvania if your business is not based there?
+A: If you have nexus in Pennsylvania but are not based there, you would charge the 6% Pennsylvania state use tax rate.
+
+Q: Should you collect sales tax on shipping charges in Pennsylvania?
+A: Whether or not you should collect sales tax on shipping charges in Pennsylvania depends on whether the item being shipped is taxable. If the item is taxable, the shipping and handling charges are also subject to tax. If the item is not taxable, the shipping and handling charges are not subject to tax.
+
+Q: When are sales tax returns due in Pennsylvania?
+A: The due dates for filing and paying Pennsylvania sales tax depend on your assigned filing frequency, which is determined by sales tax liability in the previous year. Returns are generally due on the 20th of the month following the reporting period, with semiannual filers having an extra month.
+
+Q: How can you calculate and file sales tax in Pennsylvania?
+A: To calculate and file sales tax in Pennsylvania, you can use Kintsugi's Pennsylvania sales tax report. You have three options for filing and paying: online at the Pennsylvania Department of Revenue, over the telephone, or using AutoFile through Kintsugi.

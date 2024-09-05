@@ -1,0 +1,26 @@
+Q: Do you need to collect sales tax in Alabama?
+A: You’ll need to collect sales tax in Alabama if you have nexus there.
+
+Q: What is physical nexus in Alabama?
+A: Alabama considers a seller to have physical nexus if they have an office or place of business, a warehouse or inventory stored in the state, or regular presence of traveling salespeople or other agents in the state.
+
+Q: What is economic nexus in Alabama?
+A: Effective January 1, 2016, Alabama considers sellers who make more than $250,000 in sales annually in the state to have economic nexus.
+
+Q: Is SaaS taxable in Alabama?
+A: Yes, SaaS (Software as a Service) is considered a taxable service in Alabama.
+
+Q: How can I get a sales tax permit in Alabama?
+A: You can register online at My Alabama Taxes (MAT) and provide necessary personal and business information.
+
+Q: How do I collect sales tax in Alabama?
+A: Alabama is a destination-based sales tax staFte, so you should collect sales tax at the rate of the buyer's ship-to location. You can use the Kintsugi's sales tax calculator to determine the correct sales tax rate.
+
+Q: Should I collect sales tax on shipping charges in Alabama?
+A: If you separately state the shipping charges on the bill to your customer, you do not have to charge sales tax on shipping in Alabama. However, if shipping is included in the price of the product, sales tax must be collected on shipping.
+
+Q: When are sales tax returns due in Alabama?
+A: The due date for Alabama sales tax returns is the 20th of the month following the reporting period, with monthly, quarterly, and annual filing frequencies available.
+
+Q: How do I file and pay sales tax in Alabama?
+A: The Alabama Department of Revenue requires online sellers to file sales tax online through My Alabama Taxes. Payments can be made via electronic funds transfer for amounts over $750, or by mail for amounts under $750.

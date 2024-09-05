@@ -1,0 +1,162 @@
+org: kintsugi
+app: platform
+service: taxbot
+
+provider:
+  name: aws
+  runtime: python3.10
+  stage: ${opt:stage, 'dev'}
+  region: us-west-2
+  httpApi:
+    cors:
+      allowedOrigins:
+        - ${self:custom.corsProps.allowedOrigins.${self:provider.stage}, self:custom.corsProps.allowedOrigins.dev}
+      allowedHeaders:
+        - ${self:custom.corsProps.allowedHeaders.${self:provider.stage}, self:custom.corsProps.allowedHeaders.dev}
+      allowedMethods:
+        - ${self:custom.corsProps.allowedMethods.${self:provider.stage}, self:custom.corsProps.allowedMethods.dev}
+  vpc:
+    securityGroupIds: ${self:custom.vpcConfig.${self:provider.stage}.securityGroupIds}
+    subnetIds: ${self:custom.vpcConfig.${self:provider.stage}.subnetIds}
+  environment:
+    DATABASE_HOST: ${self:custom.POSTGRESQL.HOST}
+    DATABASE_PORT: ${self:custom.POSTGRESQL.PORT}
+    DATABASE_NAME: ${self:custom.DATABASE_NAME}
+    DATABASE_USER: ${self:custom.DATABASE_USER}
+    DATABASE_PASSWORD: ${self:custom.DATABASE_PASSWORD}
+    COLLETION_NAME: ${self:custom.COLLETION_NAME}
+    OPENAI_API_KEY: ${param:OPENAI_API_KEY, 'none'}
+    ENVIRONMENT: ${self:provider.stage, 'dev'}
+
+package:
+  individually: true
+  patterns: 
+    - '!node_modules/**'
+    - '!test/**'
+    - '!.env'
+    - '!Dockerfile'
+    - '!bin/**'
+    - '!venv/**'
+    - '!.vscode/**'
+    - '!.github/**'
+    - '!.serverless/**'
+    - '!.pytest_cache/**'
+    - '!.git/**'
+    - '!__pycache__/**'
+    - '!layer_dir/**'
+    - '!layer_dir.zip'
+
+functions:
+  api:
+    handler: main.handler
+    events:
+      - httpApi:
+          path: /{proxy+}
+          method: any
+    timeout: 30
+    memorySize: 1024
+
+plugins:
+  - serverless-python-requirements
+  - serverless-domain-manager
+
+resources:
+  Resources:
+    DBMonitoringRole:
+      Type: 'AWS::IAM::Role'
+      Properties:
+        RoleName: ${self:provider.stage}-TaxbotDBMonitoringRole
+        ManagedPolicyArns:
+          - 'arn:aws:iam::aws:policy/service-role/AmazonRDSEnhancedMonitoringRole'
+        AssumeRolePolicyDocument:
+          Version: '2008-10-17'
+          Statement:
+            - Effect: Allow
+              Principal:
+                Service: 'monitoring.rds.amazonaws.com'
+              Action: 'sts:AssumeRole'
+    ServerlessPostgresV2Cluster:
+      Type: AWS::RDS::DBCluster
+      DeletionPolicy: Snapshot
+      Properties:
+        DatabaseName: ${self:custom.DATABASE_NAME}
+        DBClusterIdentifier: ${self:provider.stage}-taxbotdb-cluster
+        DBSubnetGroupName: ${self:custom.dbSubnetGroupName.${self:provider.stage}}
+        Engine: aurora-postgresql
+        EngineVersion: 15.4
+        Port: 5432
+        MasterUsername: ${self:custom.DATABASE_USER}
+        MasterUserPassword: ${self:custom.DATABASE_PASSWORD}
+        ServerlessV2ScalingConfiguration:
+          MaxCapacity: 2
+          MinCapacity: .5
+        StorageEncrypted: true
+        VpcSecurityGroupIds: ${self:custom.vpcConfig.${self:provider.stage}.securityGroupIds}
+    DBInstance:
+      Type: AWS::RDS::DBInstance
+      Properties:
+        DBClusterIdentifier: !Ref ServerlessPostgresV2Cluster
+        DBSubnetGroupName: ${self:custom.dbSubnetGroupName.${self:provider.stage}}
+        DBInstanceIdentifier: ${self:provider.stage}-taxbotdb
+        DBInstanceClass: 'db.serverless'
+        Engine: aurora-postgresql
+        PubliclyAccessible: false
+        MonitoringInterval: 60
+        MonitoringRoleArn: !GetAtt ["DBMonitoringRole", "Arn"]
+
+custom:
+  pythonRequirements:
+    dockerizePip: true
+    slim: true
+    noDeploy:
+      - boto3
+      - botocore
+  vpcConfig:
+    dev:
+      vpcId: vpc-011f1240d732aaeab
+      securityGroupIds:
+        - sg-09a9ef2dce5f97240
+      subnetIds:
+        - subnet-0714d30a0367d9a5d
+        - subnet-0a6e30cfab0bc03e0
+    prod:
+      vpcId: vpc-0f136f8dff853ad8a
+      securityGroupIds:
+        - sg-08bd2b7df59544ad5
+      subnetIds:
+        - subnet-012368e8f9ce17f41
+        - subnet-07eebebcd0bdf7d28
+  DATABASE_NAME: postgres
+  DATABASE_USER: master
+  DATABASE_PASSWORD: ${param:DB_PASS_MASTER, 'admin'}
+  COLLETION_NAME: taxbot
+  POSTGRESQL:
+    HOST:
+      Fn::GetAtt: [DBInstance, Endpoint.Address]
+    PORT:
+      Fn::GetAtt: [DBInstance, Endpoint.Port]
+  dbSubnetGroupName:
+    dev: platform-dev-dbsubnetgroup-pjsjqhjaqoi2
+    prod: platform-prod-dbsubnetgroup-xnplnazvnjnw
+  corsProps:
+    allowedOrigins:
+      dev: '*'
+      prod: '*'
+    allowedHeaders:
+      dev: '*'
+      prod: '*'
+    allowedMethods:
+      dev: '*'
+      prod: '*'
+  envCustomDomainProps:
+    domainName:
+      dev: 'dev-taxbot.trykintsugi.com'
+      prod: 'taxbot.trykintsugi.com'
+  customDomain:
+    domainName: ${self:custom.envCustomDomainProps.domainName.${self:provider.stage}, self:custom.envCustomDomainProps.domainName.dev}
+    basePath: ''
+    stage: '$default'
+    certificateName: trykintsugi.com
+    createRoute53Record: true
+    endpointType: regional
+    apiType: http

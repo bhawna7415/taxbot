@@ -1,0 +1,32 @@
+Q: What determines whether or not you need to collect sales tax in Ohio?
+A: You'll need to collect sales tax in Ohio if you have nexus there. There are two ways that sellers can be tied to a state when it comes to nexus: physical or economic.
+
+Q: How does Ohio define physical nexus?
+A: Ohio considers a seller to have physical nexus if they have a place of business, employees, representatives, or individuals in the state for the purpose of conducting business, make regular deliveries, own tangible personal property, or are registered with the secretary of state or any state agency in Ohio.
+
+Q: What is economic nexus in Ohio?
+A: Effective August 1, 2019, Ohio considers vendors who make more than $100,000 in sales annually in the state or more than 200 separate transactions into the state in the current or last calendar year to have economic nexus.
+
+Q: What types of products and services are taxable in Ohio?
+A: Many services in Ohio are taxable, but tangible products are generally taxable with a few exceptions such as certain foods, prescription drugs, and some building materials.
+
+Q: Is SaaS (Software as a Service) taxable in Ohio?
+A: SaaS is taxable for business use in Ohio and non-taxable for personal use.
+
+Q: How can you get a sales tax permit in Ohio?
+A: You can register for an Ohio sales tax permit online at the Ohio Business Gateway. For in-state sellers, choose "County Vendor's license." For out-of-state sellers, choose "Ohio Taxation - New Account Registration and Fuel Permit" and then "Sellers Registration."
+
+Q: How do you collect sales tax in Ohio if your business is based in Ohio?
+A: Ohio is an origin-based sales tax state, so you collect sales tax at the tax rate where your business is located. The state sales tax rate in Ohio is 5.75%.
+
+Q: How do you collect sales tax in Ohio if your business is not based in Ohio?
+A: If you are an online seller who made a sale into Ohio from outside the state, you should charge sales tax based on the destination of the buyer.
+
+Q: Should you collect sales tax on shipping charges in Ohio?
+A: Yes, Ohio considers delivery charges as part of the price of a sale and therefore taxable.
+
+Q: When are sales tax returns due in Ohio?
+A: The due date for Ohio sales tax returns depends on your assigned filing frequency and the state's due dates. Ohio requires monthly or semiannual filing, with returns generally due on the 23rd of the month following the reporting period.
+
+Q: How do you file and pay sales tax in Ohio?
+A: You can file sales tax online at the Ohio Department of Taxation and remit payment through their online system. Alternatively, you can file by mail using form UST-1, although Ohio encourages online filing. AutoFile with Kintsugi is another option for automated filing and payment.

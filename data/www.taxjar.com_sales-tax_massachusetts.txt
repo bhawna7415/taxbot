@@ -1,0 +1,29 @@
+Q: Do you need to collect sales tax in Massachusetts?
+A: You’ll need to collect sales tax in Massachusetts if you have nexus there. There are two ways to have nexus: physical or economic.
+
+Q: What constitutes physical nexus in Massachusetts?
+A: Massachusetts considers a seller to have physical nexus if they have an office, place of business, owned property, an employee present for more than 2 days per year, goods in a warehouse, ownership of property, a sample/display area, or deliver property/services in Massachusetts.
+
+Q: How can you have economic nexus in Massachusetts?
+A: Effective October 1, 2019, Massachusetts considers vendors who make more than $100,000 in sales in the state over the preceding calendar year to have economic nexus.
+
+Q: Is everything you sell taxable in Massachusetts?
+A: Services are generally not taxable, but creating/manufacturing a product may require sales tax. Tangible personal property is taxable with exceptions for certain items.
+
+Q: How can you obtain a sales tax permit in Massachusetts?
+A: You can register online at Massachusetts' MassTax Connect. You'll need identifying information about your business, type of business, owners and officers, and a description of business activities.
+
+Q: What is the sales tax rate in Massachusetts?
+A: Massachusetts has a statewide tax rate of 6.25%. You would charge this rate to buyers in Massachusetts.
+
+Q: Should you charge sales tax on shipping charges in Massachusetts?
+A: Shipping is generally not taxable in Massachusetts as long as you separate shipping charges on a separate line item in the invoice or sale to the customer.
+
+Q: When are returns due for Massachusetts sales tax?
+A: Returns are due on the 30th of the month following the reporting period, which can be monthly, quarterly, or annually depending on your filing frequency.
+
+Q: How can you calculate the amount of sales tax you owe in Massachusetts?
+A: You can use Kintsugi's Massachusetts sales tax report to calculate how much sales tax you collected.
+
+Q: What are the options for filing and paying sales tax in Massachusetts?
+A: Options include filing online through the Massachusetts Department of Revenue's website, filing by mail using form ST-9, or using Kintsugi's AutoFile service.

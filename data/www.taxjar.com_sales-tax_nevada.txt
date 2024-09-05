@@ -1,0 +1,38 @@
+Q: Do you need to collect sales tax in Nevada?
+A: You’ll need to collect sales tax in Nevada if you have nexus there.
+
+Q: What constitutes physical nexus in Nevada?
+A: Nevada considers a seller to have physical nexus if they have an office or place of business, an employee present in the state, goods in a warehouse, ownership of real or personal property, delivery of merchandise in Nevada in vehicles, or independent contractors or other representatives in Nevada.
+
+Q: What constitutes economic nexus in Nevada?
+A: Effective October 1, 2018, Nevada considers vendors who make more than $100,000 in sales annually in the state or more than 200 transactions in the state in the previous or current calendar year to have economic nexus.
+
+Q: Are services taxable in Nevada?
+A: Services in Nevada are generally not taxable, but if the service is necessary to complete the sale of a tangible personal property, sales tax may apply to the products.
+
+Q: Is SaaS taxable in Nevada?
+A: SaaS (Software-as-a-Service) is non-taxable in Nevada.
+
+Q: How can you get a sales tax permit in Nevada?
+A: Sellers are encouraged to use the Nevada Tax Center or download the Nevada Business Registration form and fill out the Supplemental Registration portion. The form should be sent to the Nevada Department of Taxation.
+
+Q: How much does a sales tax permit application in Nevada cost?
+A: The state of Nevada charges $15.00 per application for a sales tax permit.
+
+Q: How should you collect sales tax in Nevada if you are based in Nevada?
+A: If you live in Nevada, collecting sales tax is based on where your customer lives. You can look up the local sales tax rate with Kintsugi Sales Tax Calculator.
+
+Q: How should you collect sales tax in Nevada if you are not based in Nevada?
+A: If you are based outside of Nevada but made a sale into Nevada from outside the state, you should charge sales tax based on the destination of the buyer.
+
+Q: Should you collect sales tax on shipping charges in Nevada?
+A: Most eCommerce sellers will be required to charge sales tax on shipping charges in Nevada.
+
+Q: When are returns due for Nevada sales tax?
+A: Nevada sales tax returns are due the last day of the month following the reporting period, which can be monthly, quarterly, or annually depending on your assigned filing frequency.
+
+Q: How can you calculate how much sales tax you owe in Nevada?
+A: You can use Kintsugi's Nevada sales tax report to calculate how much sales tax you should remit to the state of Nevada.
+
+Q: How can you file and pay sales tax in Nevada?
+A: You have three options for filing and paying Nevada sales tax: file online at the Nevada Department of Taxation, file by mail using Form TXR-01.01c, or use Kintsugi's AutoFile service to have them file and pay sales tax for you.

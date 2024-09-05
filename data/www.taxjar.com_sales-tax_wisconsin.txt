@@ -1,0 +1,32 @@
+Q: How can you determine if you need to collect sales tax in Wisconsin?
+A: You need to determine if you have physical or economic nexus in the state.
+
+Q: What qualifies as physical nexus in Wisconsin?
+A: Physical nexus in Wisconsin can be established through having an office or place of business, an employee present in the state, goods in a warehouse, or ownership of real or personal property in the state.
+
+Q: How is economic nexus determined in Wisconsin?
+A: Effective February 2021, economic nexus in Wisconsin is triggered if a seller makes more than $100,000 in sales in the state in the previous or current calendar year.
+
+Q: What items are taxable in Wisconsin?
+A: Generally, tangible products are taxable in Wisconsin, with a few exceptions like burial caskets, certain groceries, prescription medicine and medical devices, printed publications, modular or manufactured homes, manufacturing equipment, and some agricultural items.
+
+Q: Is SaaS subject to sales tax in Wisconsin?
+A: No, SaaS is not taxable in Wisconsin.
+
+Q: What is use tax and when is it paid?
+A: Use tax is paid on taxable items purchased in Wisconsin when sales tax was not charged at the time of purchase. It can be paid on the sales and use tax return or on the Wisconsin Form UT-5.
+
+Q: How can you register for a sales tax permit in Wisconsin?
+A: You can register online at the Wisconsin Business Tax Registration website or submit the Application for Wisconsin Business Tax Registration (BTR-101) to the Wisconsin Department of Revenue.
+
+Q: How do you collect sales tax in Wisconsin?
+A: In Wisconsin, sales tax is collected based on the destination of the item. If you charge the buyer for shipping and the item is taxable, the shipping charges are also taxable.
+
+Q: When are Wisconsin sales tax returns due?
+A: Wisconsin sales tax returns are due on the last day of the month following the reporting period, depending on your assigned filing frequency. Some high-volume filers may have prepayments due on the 20th of the following month.
+
+Q: How can you calculate the amount of sales tax owed in Wisconsin?
+A: You can use Kintsugi's Wisconsin sales tax report or connect to your selling channels to calculate the amount of sales tax you have collected.
+
+Q: How can you file and pay sales tax in Wisconsin?
+A: You can file and pay sales tax in Wisconsin online through the state's Department of Revenue's online system, by mail using the Wisconsin form ST-12, or use AutoFile through Kintsugi for automated filing and payment handling.

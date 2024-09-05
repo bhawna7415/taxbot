@@ -1,0 +1,29 @@
+Q: How can I determine if I need to collect sales tax in South Carolina?
+A: You'll need to determine if you have physical or economic nexus in South Carolina.
+
+Q: What is considered physical nexus in South Carolina?
+A: Physical nexus in South Carolina can be established through factors such as having an office or place of business, employees present, goods in a warehouse, ownership of property, delivery of merchandise, or independent contractors or representatives in the state.
+
+Q: How can I establish economic nexus in South Carolina?
+A: Effective November 1, 2018, economic nexus in South Carolina is established if you make more than $100,000 in sales annually in the previous or current calendar year.
+
+Q: Which products are taxable in South Carolina?
+A: Most tangible personal property is taxable in South Carolina, with some exceptions such as certain groceries, prescription medicine and medical devices, and machinery and chemicals used in research and development.
+
+Q: Is SaaS subject to sales tax in South Carolina?
+A: Yes, SaaS (Software as a Service) is considered a taxable service in South Carolina.
+
+Q: What is the process for obtaining a sales tax permit in South Carolina?
+A: To get a retail license in South Carolina, you can apply online, through mail, or in person. You will need to provide information about the owner, business location, type of business, ownership type, and names of business owner, partners, officers, and members. There is a $50.00 registration fee.
+
+Q: How do I collect sales tax in South Carolina?
+A: South Carolina is a destination-based sales tax state, meaning you collect sales tax at the rate of the buyer's location. The current South Carolina sales tax rate is 6%.
+
+Q: Do I need to collect sales tax on shipping charges in South Carolina?
+A: If you charge for shipping as part of an order, shipping charges to buyers in South Carolina are taxable.
+
+Q: When are sales tax returns due in South Carolina?
+A: The due dates for filing and paying South Carolina sales tax depend on your assigned filing frequency. Generally, returns are due on the 20th of the month following the reporting period.
+
+Q: How can I calculate and file sales tax in South Carolina?
+A: You can calculate your South Carolina sales tax using Kintsugi's sales tax report. To file and pay, you can do it online through the South Carolina Department of Revenue or use Kintsugi's AutoFile service for automatic filing and payment.

@@ -1,0 +1,29 @@
+Q: Do you need to collect sales tax in Washington?
+A: You'll need to collect sales tax if you have nexus in Washington, either through physical presence or economic thresholds.
+
+Q: Do you have physical nexus in Washington?
+A: Washington considers several factors for physical nexus, such as soliciting sales, maintaining stock, or providing services in the state.
+
+Q: Do you have economic nexus in Washington?
+A: Effective October 1, 2018, vendors making more than $100,000 in sales annually in Washington have economic nexus and must collect sales tax.
+
+Q: Is what you're selling taxable in Washington?
+A: Generally, services are not taxable, but construction services may be. Tangible products are taxable, with some exceptions like certain groceries and prescription medicine.
+
+Q: Is SaaS taxable in Washington?
+A: Yes, SaaS is taxable in Washington as all software is considered taxable.
+
+Q: How to get a sales tax permit in Washington?
+A: You can apply for a sales tax permit in Washington through the Business License Application online or by mail.
+
+Q: How do you collect sales tax in Washington?
+A: Washington is a destination-based sales tax state, so you collect sales tax at the rate where the product is delivered.
+
+Q: Should you collect sales tax on shipping charges in Washington?
+A: According to Washington, if the item being shipped is taxable, then the shipping is taxable. If the item isn't taxable, then the shipping isn't taxable.
+
+Q: When are returns due for sales tax in Washington?
+A: The due date for sales tax returns in Washington depends on your assigned filing frequency, which can be monthly, quarterly, or annually.
+
+Q: How do you file and pay sales tax in Washington?
+A: You can file online through the Washington Department of Revenue, by mail using various forms, or use Kintsugi's AutoFile service for automated filing.

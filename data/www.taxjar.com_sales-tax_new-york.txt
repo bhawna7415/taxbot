@@ -1,0 +1,32 @@
+Q: What is nexus in relation to sales tax in New York?
+A: Nexus refers to the connection or presence that a seller has in a state, which determines whether they are required to collect and remit sales tax in that state.
+
+Q: How does New York determine physical nexus for sales tax?
+A: New York considers a seller to have physical nexus if they have an office or place of business, employees located in the state, goods in a warehouse, ownership of real or personal property, delivery of merchandise in New York in vehicles owned by the taxpayer, or independent contractors or other representatives in New York.
+
+Q: What is economic nexus in New York?
+A: Economic nexus in New York means that if a vendor makes more than $300,000 per year in gross revenue and conducts sales into New York in more than 100 separate transactions in the last 4 quarters, they have economic nexus and must collect sales tax.
+
+Q: What items are taxable in New York?
+A: In New York, certain services like repair and maintenance services to real property are taxable. Tangible products are also taxable, with some exceptions including certain groceries, over-the-counter and prescription medicine, medical devices, and certain clothing and footwear sold for less than $110 per item.
+
+Q: Is Software as a Service (SaaS) taxable in New York?
+A: Yes, SaaS is taxable in New York.
+
+Q: What is use tax?
+A: Use tax is a tax owed by businesses that purchase taxable property or services from out of state, which would be subject to New York sales tax if sold in-state.
+
+Q: How can I obtain a sales tax permit in New York?
+A: Sellers with sales tax nexus in New York must apply for a New York sales tax permit, also known as a Certificate of Authority. They can register for a sales tax permit at the New York State License Center.
+
+Q: What is the process of collecting sales tax in New York?
+A: The sales tax rate you collect in New York depends on the buyer's location. If you are based in New York, you charge buyers in your state the rate according to the delivery location. If you are not based in New York, you charge sales tax based on the buyer's destination.
+
+Q: Do I need to collect sales tax on shipping charges in New York?
+A: In New York, if you sell taxable goods and include shipping charges as part of an order, then those charges are also taxable. However, if the goods you are selling aren't taxable, then neither is the shipping.
+
+Q: When are sales tax returns due in New York?
+A: Sales tax returns in New York are generally due on the 20th or the final day of the month following the reporting period, depending on your assigned filing frequency.
+
+Q: How can I file and pay sales tax in New York?
+A: In New York, you can file and pay sales tax online through the New York Department of Taxation and Finance website or use a service like Kintsugi to automate the process.
